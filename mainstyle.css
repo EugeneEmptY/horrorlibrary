@@ -1,0 +1,7 @@
+BODY {background-color: #991993; color: rgb(29,29,24);}
+H1,H2 {text-align: center;}
+A:link {color: black;}
+A:visited {color: yellow;}
+A:active {color: red;}
+A:hover {color: green;}
+HR {margin-top: 24px; width: 75%;}
